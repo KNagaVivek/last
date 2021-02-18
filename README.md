@@ -30,12 +30,12 @@
    [Gitlogo](hello)
    
    **table**
-   |Name|Branch|College|
+   Name|Branch|College|
    |----|------|-------|
    |abcd|efghijk|gfjgjhg|
    |@@@@|@@@@@@@|@@@@@@@|
    |~~~|~~~~~~|~~~~~~~~|
-   |%%%%|%%%%%%|%%%%%%%|
+   |%%%%|%%%%%%|%%%%%%%
    
    **code**
    ~~~
