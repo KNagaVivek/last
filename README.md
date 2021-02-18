@@ -24,7 +24,7 @@
    
    **image**
    ![Gitlogo](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
-   <img src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" height=50px></img>
+   <img src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" height=50px>
    
    **link** 
    [Gitlogo](hello)
